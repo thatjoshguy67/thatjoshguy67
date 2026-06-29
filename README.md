@@ -4,8 +4,8 @@
 
 <!-- ░░░ HERO ░░░ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hero_dark.svg">
-  <img alt="Hey, I'm Josh — Designer, Tech Journalist, Creator" src="hero_light.svg" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="hero_v2_dark.svg">
+  <img alt="Hey, I'm Josh Skinner — Aka That Josh Guy" src="hero_v2_light.svg" width="880">
 </picture>
 
 <!-- ░░░ ROLES ░░░ -->
