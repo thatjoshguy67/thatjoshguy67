@@ -8,8 +8,6 @@
   <img alt="Hey, I'm Josh — Designer, Tech Journalist, Creator" src="hero_light.svg" width="880">
 </picture>
 
-<br><br>
-
 <!-- ░░░ ROLES ░░░ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="roles_dark.svg">
