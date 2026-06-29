@@ -14,15 +14,11 @@
   <img alt="Tech Journalist · UX Designer · Creator" src="roles_light.svg" width="880">
 </picture>
 
-<br><br>
-
 <!-- ░░░ ABOUT ME ░░░ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="about_dark.svg">
   <img alt="About Me" src="about_light.svg" width="880">
 </picture>
-
-<br><br>
 
 <!-- ░░░ FEATURED IN ░░░ -->
 <picture>
@@ -30,15 +26,11 @@
   <img alt="Featured In: SammyGuru, Android Authority, SamMobile, PhoneArena, Android Headlines" src="featured_light.svg" width="880">
 </picture>
 
-<br><br>
-
 <!-- ░░░ WHAT I DO ░░░ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="skills_dark.svg">
   <img alt="What I do" src="skills_light.svg" width="880">
 </picture>
-
-<br><br>
 
 <!-- ░░░ STATS ░░░ -->
 <picture>
@@ -49,8 +41,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thatjoshguy67&layout=compact&hide_border=true&border_radius=18&title_color=5A93FF&text_color=C9D1D9&bg_color=1A1C20">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatjoshguy67&layout=compact&hide_border=true&border_radius=18&title_color=387AFF&text_color=5B616B&bg_color=FFFFFF">
 </picture>
-
-<br><br>
 
 <!-- ░░░ CONNECT ░░░ -->
 <a href="https://github.com/thatjoshguy67">
