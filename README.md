@@ -57,7 +57,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://x.com/thatjoshguy69">
+<a href="https://x.com/thatjoshguy">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="btn_x_dark.svg">
     <img alt="X" src="btn_x_light.svg" height="46">
